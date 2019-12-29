@@ -1,6 +1,6 @@
 # list_view
 
-A new Flutter application.
+I've combined betwen ListView and ListTile in this Project
 
 ## Getting Started
 
